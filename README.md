@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Anita 👋
 
-<!--
-**AnitaOm546/AnitaOm546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Data Scientist / Analyst | Python, SQL, ML, Tableau | Ex Non-IT Pro Turning Data-driven
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+I'm a B.Tech graduate with 6+ years in the non-IT sector, now focused on data analytics and machine learning. Skilled in:
+
+- 🔹 Data Cleaning & Wrangling
+- 🔹 Visualization (Tableau, Power BI, Matplotlib, Seaborn)
+- 🔹 Modeling (Linear, Logistic, Clustering, etc.)
+- 🔹 Tools: Python, SQL, Excel, Jupyter
+
+---
+
+## 📊 Projects
+
+### 📌 [Customer Churn Prediction](https://github.com/AnitaOm546/Skillfied-Mentor-Projects/tree/main)
+- Analyzed telecom data to predict customer churn using logistic regression and decision trees.
+- Tools: Python, Pandas, Sklearn, Seaborn
+
+### 📌 [Sales Dashboard](https://github.com/AnitaOm546/DS_Projects/tree/main)
+- Built interactive dashboard using Tableau to visualize regional and monthly sales performance.
+
+### 📌 [E-commerce Data Analysis](https://github.com/AnitaOm546/DS_Task/tree/main)
+- Performed EDA on user behavior data to find trends and business insights.
+
+---
+
+## 🛠 Skills
+
+**Languages**: Python, SQL  
+**Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**Tools**: Jupyter, Excel, Tableau, Power BI  
+**Other**: Data Wrangling, Visualization, Modeling, Dashboarding
+
+---
+
+## 📫 Contact
+
+📧 anitakumari546@gmail.com  
+💼 [LinkedIn](www.linkedin.com/in/anita-kumari-237753119)  
+🌐 [Portfolio Website (Optional)]()
+
