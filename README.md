@@ -27,6 +27,9 @@ I'm a B.Tech graduate with 6+ years in the non-IT sector, now focused on data an
 ### 📌 [E-commerce Data Analysis](https://github.com/AnitaOm546/DS_Task/tree/main)
 - Performed EDA on user behavior data to find trends and business insights.
 
+### 📌 [ABG Motors India Market Expansion Analysis](https://github.com/AnitaOm546/Internshala_Final_Project/tree/main)
+- Developed a classification model to predict car buyers using Japanese market data and applied it to Indian data to forecast potential sales for ABG Motors. Achieved business insights, validated a sales target, and used Tableau for visualizing cross-country market trends and customer behavior.
+
 ---
 
 ## 🛠 Skills
