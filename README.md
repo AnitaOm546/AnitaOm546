@@ -42,6 +42,5 @@ I'm a B.Tech graduate with 6+ years in the non-IT sector, now focused on data an
 
 📧 anitakumari546@gmail.com  
 💼 [LinkedIn](www.linkedin.com/in/anita-kumari-237753119)  
-🌐 [Portfolio Website (Optional)]()
-💼 [Certification](https://trainings.internshala.com/s/v/3736349/6c46f67b) 
+🌐 [Certification](https://trainings.internshala.com/s/v/3736349/6c46f67b) 
 
