@@ -24,6 +24,10 @@ I'm a B.Tech graduate with 6+ years in the non-IT sector, now focused on data an
 ### 📌 [Sales Dashboard](https://github.com/AnitaOm546/DS_Projects/tree/main)
 - Built interactive dashboard using Tableau to visualize regional and monthly sales performance.
 
+### 📌 [eCommerce Sales Record Dashboard](https://github.com/AnitaOm546/DS)
+- Data Analysis and Visualization project using Power BI on eCommerce sales data.
+- Includes data cleaning, transformation, KPI analysis, and interactive dashboards to track sales performance, customer trends, revenue growth, and category-wise insights for data-driven decision making.
+
 ### 📌 [E-commerce Data Analysis](https://github.com/AnitaOm546/DS_Task/tree/main)
 - Performed EDA on user behavior data to find trends and business insights.
 
