@@ -1,6 +1,6 @@
 # Hi, I'm Anita 👋
 
-🚀 Aspiring Data Data Scientist / Analyst | Python, SQL, ML, Tableau | Ex Non-IT Pro Turning Data-driven
+🚀 Aspiring Data Scientist / Analyst | Python, SQL, ML, Tableau | Ex Non-IT Pro Turning Data-driven
 
 ---
 
